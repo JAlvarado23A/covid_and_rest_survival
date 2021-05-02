@@ -4,9 +4,9 @@ Introduction:
  
 The National Restaurant Association’s article dated 01/25/21 titled “State of the Restaurant Industry report measures virus' impact on business” indicated that:
    
-        The restaurant industry ended 2020 with total sales that were $240 billion below the Association’s pre-pandemic forecast for the year .
+        "The restaurant industry ended 2020 with total sales that were $240 billion below the Association’s pre-pandemic forecast for the year."
 
-         As of Dec. 1, 2020, more than 110,000 eating and drinking places were closed for business temporarily, or for good.
+         "As of Dec. 1, 2020, more than 110,000 eating and drinking places were closed for business temporarily, or for good."
  
 Our Initial Hypothesis and the Information We Considered:
  
